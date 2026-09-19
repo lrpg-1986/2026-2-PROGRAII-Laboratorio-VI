@@ -2,6 +2,11 @@
 
 Este directorio contiene los seis ejercicios del laboratorio.
 
-Los ejercicios 1, 2 y 3 corresponden al diseño de las API mediante archivos
-OpenAPI en formato YAML. Los ejercicios 4, 5 y 6 contienen las implementaciones
-con Java y Spring Boot.
+| Sección | Ejercicios | Descripción |
+|---|---|---|
+| Diseño | 1, 2 y 3 | Contratos OpenAPI en archivos YAML |
+| Desarrollo | 4, 5 y 6 | API REST con Java y Spring Boot |
+
+Cada ejercicio de desarrollo incluye su propio `README.md`, proyecto Maven y
+pruebas unitarias. Las aplicaciones almacenan la información en listas en
+memoria y devuelven sus respuestas en formato JSON.
